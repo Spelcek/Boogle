@@ -1,0 +1,70 @@
+.Boogle1 {background-color:white;
+  height: 200px;
+  position: fixed;
+  display: block;
+  text-align: center;
+  vertical-align: middle;
+  border:strong;
+}
+.Boogle2 {background-color:white;
+  height: 900px;
+  position: fixed;
+  display: block;
+  text-align: center;
+  vertical-align: middle;
+  border:strong;
+}
+.IMG{vertical-align: bottom; /*Kako postaviti sliko na dno in sredino Boogle2?*/
+  position: fixed;
+  display: block;
+  top:35%;
+  left:40%;
+  height:150px;
+  width:150px;}
+
+.Searchbox {background-color:white;
+  height: 50px;
+  width: 150px;
+  position: fixed;
+  display: block;
+  top:58%;
+  left:38%;
+  }
+
+.Gumb1 {font-family: Verdana;
+  font-style: strong;
+  height:auto;
+  width: auto;
+  position: fixed; /*don't show in mozzila*/
+  display: block;
+  top:68%;
+  left:35%;
+}
+
+.Gumb2 {font-family: Verdana;
+font-style: strong;
+height:auto;
+width: auto;
+position: fixed; /*don't show in mozzila*/
+display: block;
+top:68%;
+left:45%;
+}
+
+.language {font-family: Verdana;
+font-size: 12px;
+display:block;
+position: fixed;
+top: 78%;
+left:36%;}
+
+.meni {background-color: white;
+  position: absolute;
+  left:0%;
+  bottom:0%;
+}
+
+li {font-family: Verdana;
+font-size: 12px;
+display: inline-block;
+}
